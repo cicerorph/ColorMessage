@@ -1,0 +1,45 @@
+{
+  "key.categories.colormessage": "Mensagem Colorida",
+  "key.colormessage.openconfig": "Abrir Configuração",
+  "key.colormessage.togglecycling": "Alternar Ciclo de Cores",
+  "key.colormessage.nextcolor": "Próxima Cor",
+  "key.colormessage.prevcolor": "Cor Anterior",
+  
+  "colormessage.config.title": "Configuração da Mensagem Colorida",
+  "colormessage.config.tab.main": "Principal",
+  "colormessage.config.tab.cycling": "Ciclo de Cores",
+  "colormessage.config.tab.profiles": "Perfis",
+  
+  "colormessage.config.using": "Usando: %s",
+  "colormessage.config.server": "Config. do Servidor",
+  "colormessage.config.global": "Config. Global",
+  "colormessage.config.color": "Cor: %s",
+  "colormessage.config.prefix": "Prefixo da Mensagem:",
+  "colormessage.config.preview": "Prévia: %s",
+  
+  "colormessage.config.normalchat": "Chat Normal: %s",
+  "colormessage.config.gcommand": "Comando /g: %s",
+  "colormessage.config.lcommand": "Comando /l: %s",
+  "colormessage.config.colorcycling": "Ciclo de Cores: %s",
+  
+  "colormessage.config.enabled": "Ativado",
+  "colormessage.config.disabled": "Desativado",
+  "colormessage.config.save": "Salvar",
+  
+  "colormessage.cycling.title": "Configuração do Ciclo de Cores",
+  "colormessage.cycling.interval": "Intervalo de Ciclo: %ss",
+  "colormessage.cycling.edit": "Editar Cores do Ciclo",
+  "colormessage.cycling.current": "Cores Atuais do Ciclo:",
+  "colormessage.cycling.empty": "Nenhuma cor no ciclo",
+  
+  "colormessage.profile.create": "Criar Novo Perfil",
+  "colormessage.profile.title.create": "Criar Perfil de Cor",
+  "colormessage.profile.title.edit": "Editar Perfil de Cor",
+  "colormessage.profile.name": "Nome do Perfil:",
+  "colormessage.profile.empty": "Sem cores no perfil. Adicione algumas!",
+  "colormessage.profile.delete": "Excluir Perfil",
+  "colormessage.profile.use": "Usar",
+  
+  "colormessage.color.add": "Adicionar Cor: %s",
+  "colormessage.color.edit": "Editar Cores do Ciclo"
+}

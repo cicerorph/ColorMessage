@@ -1,0 +1,45 @@
+{
+  "key.categories.colormessage": "ColorMessage",
+  "key.colormessage.openconfig": "Open Configuration",
+  "key.colormessage.togglecycling": "Toggle Color Cycling",
+  "key.colormessage.nextcolor": "Next Color",
+  "key.colormessage.prevcolor": "Previous Color",
+  
+  "colormessage.config.title": "ColorMessage Configuration",
+  "colormessage.config.tab.main": "Main",
+  "colormessage.config.tab.cycling": "Color Cycling",
+  "colormessage.config.tab.profiles": "Profiles",
+  
+  "colormessage.config.using": "Using: %s",
+  "colormessage.config.server": "Server Config",
+  "colormessage.config.global": "Global Config",
+  "colormessage.config.color": "Color: %s",
+  "colormessage.config.prefix": "Message Prefix:",
+  "colormessage.config.preview": "Preview: %s",
+  
+  "colormessage.config.normalchat": "Normal Chat: %s",
+  "colormessage.config.gcommand": "/g Command: %s",
+  "colormessage.config.lcommand": "/l Command: %s",
+  "colormessage.config.colorcycling": "Color Cycling: %s",
+  
+  "colormessage.config.enabled": "Enabled",
+  "colormessage.config.disabled": "Disabled",
+  "colormessage.config.save": "Save",
+  
+  "colormessage.cycling.title": "Color Cycling Configuration",
+  "colormessage.cycling.interval": "Cycle Interval: %ss",
+  "colormessage.cycling.edit": "Edit Cycle Colors",
+  "colormessage.cycling.current": "Current Cycle Colors:",
+  "colormessage.cycling.empty": "No colors in cycle",
+  
+  "colormessage.profile.create": "Create New Profile",
+  "colormessage.profile.title.create": "Create Color Profile",
+  "colormessage.profile.title.edit": "Edit Color Profile",
+  "colormessage.profile.name": "Profile Name:",
+  "colormessage.profile.empty": "No colors in profile. Add some!",
+  "colormessage.profile.delete": "Delete Profile",
+  "colormessage.profile.use": "Use",
+  
+  "colormessage.color.add": "Add Color: %s",
+  "colormessage.color.edit": "Edit Cycle Colors"
+}
